@@ -1,2 +1,2 @@
 # Hello-World
-Testing the first branch and commit.
+GitHub intro tutorial repo.
